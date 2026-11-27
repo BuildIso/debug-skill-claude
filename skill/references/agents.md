@@ -4,7 +4,7 @@ Here are the agents in order:
 
 2. The tester: he knows everything about the code and writes a complete bug report
 
-3. The corrector: they correct the code according to what the tester wrote in their bug report
+3. The writter: they correct the code according to what the tester wrote in their bug report
 
 4. The compiler: it compiles the project and the code
 
