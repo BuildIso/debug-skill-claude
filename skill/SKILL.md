@@ -19,3 +19,12 @@ The agents must be coordinated; the developer who discovers the project must be 
 To avoid errors in the correction process, the executor must absolutely check the code before running it.
 
 Agents must be optimized to be as token-light as possible while maintaining performance levels. 
+
+# Project Analysis Priority
+
+1. Execute scripts/project_analysis.py.
+2. Read project_scan.json.
+3. Analyze priority_files in descending priority order.
+4. Understand dependencies between files before editing.
+5. Identify the root cause before applying fixes.
+6. Verify all modifications.
