@@ -4,7 +4,7 @@ Secondly, the executor runs the code (the executor checks each test execution co
 
 Thirdly, after the code is launched, it takes temporary screenshots or a temporary video and records the screen for the duration of the code's execution, checking if everything works. And look at the console
 
-Fourth, after the code is executed, he transmits to the writer it writes its report file in the following format:
+Fourth, after the code is executed and finished, he transmits to the writer it writes its report file in the following format:
 
 See the report-format.md file in references.
 
