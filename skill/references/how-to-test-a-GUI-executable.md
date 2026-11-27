@@ -2,7 +2,7 @@ First, the tester take temporary screenshots and note the positions of the butto
 
 Secondly, the executor runs the code (the executor checks each test execution code)
 
-Thirdly, after the code is launched, it takes temporary screenshots or a temporary video and records the screen for the duration of the code's execution, checking if everything works.
+Thirdly, after the code is launched, it takes temporary screenshots or a temporary video and records the screen for the duration of the code's execution, checking if everything works. And look at the console
 
 Fourth, after the code is executed, it writes its report file in the following format:
 
